@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<groundnet>
+ <parkingList>
+  
+
+<!-- Stand 14.06.2011 D-ABBA -->
+			 
+	<Parking index="0"
+             type="gate"
+             name=""
+             number="GATE13"
+             lat="N49 29.71405080"
+             lon="E11 4.55074200"
+             heading="190"
+             radius="38"
+             pushBackRoute="" 
+             airlineCodes="" />	
+
+	<Parking index="1"
+             type="gate"
+             name=""
+             number="GATE11"
+             lat="N49 29.70855480"
+             lon="E11 4.64006400"
+             heading="190"
+             radius="38"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+	<Parking index="2"
+             type="gate"
+             name=""
+             number="GATE09"
+             lat="N49 29.69950020"
+             lon="E11 4.71680040"
+             heading="190"
+             radius="38"
+             pushBackRoute="" 
+             airlineCodes="" />
+			 
+	<Parking index="3"
+             type="gate"
+             name=""
+             number="GAP01"
+             lat="N49 29.67676560"
+             lon="E11 5.00874840"
+             heading="10"
+             radius="38"
+             pushBackRoute="" 
+             airlineCodes="" />					 
+			 
+	<Parking index="4"
+             type="gate"
+             name=""
+             number="GAP02"
+             lat="N49 29.68114500"
+             lon="E11 4.96457820"
+             heading="10"
+             radius="38"
+             pushBackRoute="" 
+             airlineCodes="" />	 
+			 
+	<Parking index="5"
+             type="gate"
+             name=""
+             number="GAP86"
+             lat="N49 29.81023200"
+             lon="E11 4.10809320"
+             heading="190"
+             radius="38"
+             pushBackRoute="" 
+             airlineCodes="" />		 
+			 
+	<Parking index="6"
+             type="gate"
+             name=""
+             number="GAP85"
+             lat="N49 29.80773060"
+             lon="E11 4.13508660"
+             heading="190"
+             radius="38"
+             pushBackRoute="" 
+             airlineCodes="" />
+			 
+	<Parking index="7"
+             type="gate"
+             name=""
+             number="GAP84"
+             lat="N49 29.80468980"
+             lon="E11 4.16328480"
+             heading="190"
+             radius="38"
+             pushBackRoute="" 
+             airlineCodes="" />
+			 
+  </parkingList>
+ </groundnet>

@@ -1,0 +1,6 @@
+# e010n40/e011n49/3138264.stg
+OBJECT_SHARED Aircraft/ufo/Models/cursor.ac 11.08029471 49.49529444 310.3226 0.0 0.0 -0.0
+OBJECT_SHARED Aircraft/ufo/Models/cursor.ac 11.06967104 49.49536290 307.2055 0.0 0.0 -0.0
+OBJECT_SHARED Aircraft/ufo/Models/cursor.ac 11.08608259 49.49444207 312.4804 0.0 0.0 -0.0
+
+------------------------------------------------------------------
