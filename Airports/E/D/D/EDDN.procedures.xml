@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <Airport ICAOcode="EDDN">
+   <Sid Name="AKANU7K" Runways="28">
+      <Sid_Waypoint ID="1">
+        <Name>DN280</Name>
+        <Type>Normal</Type>
+        <Latitude>49.511667</Latitude>
+        <Longitude>10.94</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DN281</Name>
+        <Type>Normal</Type>
+        <Latitude>49.485</Latitude>
+        <Longitude>10.89</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>DN289</Name>
+        <Type>Normal</Type>
+        <Latitude>49.396667</Latitude>
+        <Longitude>10.888333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>DN294</Name>
+        <Type>Normal</Type>
+        <Latitude>49.25</Latitude>
+        <Longitude>10.931667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>GUNBI</Name>
+        <Type>Normal</Type>
+        <Latitude>49.128333</Latitude>
+        <Longitude>10.765</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+<!--    <Sid Name="VEBIT2N" Runways="32">
+      <Sid_Waypoint ID="1">
+        <Name>34D2</Name>
+        <Type>Normal</Type>
+        <Latitude>47.488997</Latitude>
+        <Longitude>8.526674</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="1">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>TRA12</Name>
+        <Type>Normal</Type>
+        <Latitude>47.493964</Latitude>
+        <Longitude>8.365627</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>BREGO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.39</Latitude>
+        <Longitude>8.346667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>VEBIT</Name>
+        <Type>Normal</Type>
+        <Latitude>47.268611</Latitude>
+        <Longitude>8.005833</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="GERSA1H" Runways="34">
+      <Sid_Waypoint ID="1">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>TRA12</Name>
+        <Type>Normal</Type>
+        <Latitude>47.493964</Latitude>
+        <Longitude>8.365627</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>BREGO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.39</Latitude>
+        <Longitude>8.346667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>ARTAG</Name>
+        <Type>Normal</Type>
+        <Latitude>47.1645</Latitude>
+        <Longitude>8.514</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>GERSA</Name>
+        <Type>Normal</Type>
+        <Latitude>47.0393</Latitude>
+        <Longitude>8.533</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="GERSA1N" Runways="32">
+      <Sid_Waypoint ID="1">
+        <Name>34D2</Name>
+        <Type>Normal</Type>
+        <Latitude>47.488997</Latitude>
+        <Longitude>8.526674</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>TRA12</Name>
+        <Type>Normal</Type>
+        <Latitude>47.493964</Latitude>
+        <Longitude>8.365627</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>BREGO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.39</Latitude>
+        <Longitude>8.346667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>ARTAG</Name>
+        <Type>Normal</Type>
+        <Latitude>47.1645</Latitude>
+        <Longitude>8.514</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>GERSA</Name>
+        <Type>Normal</Type>
+        <Latitude>47.0393</Latitude>
+        <Longitude>8.533</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="DEGES2F" Runways="34">
+      <Sid_Waypoint ID="1">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>TRA12</Name>
+        <Type>Normal</Type>
+        <Latitude>47.493964</Latitude>
+        <Longitude>8.365627</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>D65KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.457028</Latitude>
+        <Longitude>8.385938</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.457139</Latitude>
+        <Longitude>8.545583</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>MONOL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.46167</Latitude>
+        <Longitude>8.671167</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>KOLUL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.467167</Latitude>
+        <Longitude>8.82283</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>DEGES</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4125</Latitude>
+        <Longitude>9.202</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="DEGES1H" Runways="34">
+      <Sid_Waypoint ID="1">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>ZH503</Name>
+        <Type>Normal</Type>
+        <Latitude>47.575254</Latitude>
+        <Longitude>8.709734</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>KOLUL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.467167</Latitude>
+        <Longitude>8.82283</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>DEGES</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4125</Latitude>
+        <Longitude>9.202</Longitude>
+      </Sid_Waypoint>
+   </Sid>
+   <Sid Name="DEGES2L" Runways="32">
+      <Sid_Waypoint ID="1">
+        <Name>34D2</Name>
+        <Type>Normal</Type>
+        <Latitude>47.488997</Latitude>
+        <Longitude>8.526674</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>TRA12</Name>
+        <Type>Normal</Type>
+        <Latitude>47.493964</Latitude>
+        <Longitude>8.365627</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>D65KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.457028</Latitude>
+        <Longitude>8.385938</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.457139</Latitude>
+        <Longitude>8.545583</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>MONOL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.46167</Latitude>
+        <Longitude>8.671167</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>KOLUL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.467167</Latitude>
+        <Longitude>8.82283</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>DEGES</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4125</Latitude>
+        <Longitude>9.202</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="DEGES1N" Runways="32">
+      <Sid_Waypoint ID="1">
+        <Name>34D2</Name>
+        <Type>Normal</Type>
+        <Latitude>47.488997</Latitude>
+        <Longitude>8.526674</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>ZH503</Name>
+        <Type>Normal</Type>
+        <Latitude>47.575254</Latitude>
+        <Longitude>8.709734</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>KOLUL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.467167</Latitude>
+        <Longitude>8.82283</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>DEGES</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4125</Latitude>
+        <Longitude>9.202</Longitude>
+      </Sid_Waypoint>
+   </Sid>
+   <Sid Name="SONGI2F" Runways="34">
+      <Sid_Waypoint ID="1">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>TRA12</Name>
+        <Type>Normal</Type>
+        <Latitude>47.493964</Latitude>
+        <Longitude>8.365627</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>D65KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.457028</Latitude>
+        <Longitude>8.385938</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.457139</Latitude>
+        <Longitude>8.545583</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>ZH503</Name>
+        <Type>Normal</Type>
+        <Latitude>47.575254</Latitude>
+        <Longitude>8.709734</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>SONGI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.777778</Latitude>
+        <Longitude>8.731944</Longitude>
+      </Sid_Waypoint>
+   </Sid>
+   <Sid Name="SONGI2L" Runways="32">
+      <Sid_Waypoint ID="1">
+        <Name>34D2</Name>
+        <Type>Normal</Type>
+        <Latitude>47.488997</Latitude>
+        <Longitude>8.526674</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>TRA12</Name>
+        <Type>Normal</Type>
+        <Latitude>47.493964</Latitude>
+        <Longitude>8.365627</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>D65KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.457028</Latitude>
+        <Longitude>8.385938</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.457139</Latitude>
+        <Longitude>8.545583</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>ZH503</Name>
+        <Type>Normal</Type>
+        <Latitude>47.575254</Latitude>
+        <Longitude>8.709734</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>SONGI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.777778</Latitude>
+        <Longitude>8.731944</Longitude>
+      </Sid_Waypoint>
+   </Sid>
+   <Sid Name="SONGI1H" Runways="34">
+      <Sid_Waypoint ID="1">
+        <Name>34D2</Name>
+        <Type>Normal</Type>
+        <Latitude>47.488997</Latitude>
+        <Longitude>8.526674</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>ZH503</Name>
+        <Type>Normal</Type>
+        <Latitude>47.575254</Latitude>
+        <Longitude>8.709734</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>SONGI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.777778</Latitude>
+        <Longitude>8.731944</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="SONGI1N" Runways="32">
+      <Sid_Waypoint ID="1">
+        <Name>34D6</Name>
+        <Type>Normal</Type>
+        <Latitude>47.536041</Latitude>
+        <Longitude>8.494333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>ZH503</Name>
+        <Type>Normal</Type>
+        <Latitude>47.575254</Latitude>
+        <Longitude>8.709734</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>SONGI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.777778</Latitude>
+        <Longitude>8.731944</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="VEBIT3W" Runways="28">
+      <Sid_Waypoint ID="1">
+        <Name>28D23</Name>
+        <Type>Normal</Type>
+        <Latitude>47.463400</Latitude>
+        <Longitude>8.474020</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>D4KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.437729</Latitude>
+        <Longitude>8.447225</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>BREGO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.39</Latitude>
+        <Longitude>8.346667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>VEBIT</Name>
+        <Type>Normal</Type>
+        <Latitude>47.268611</Latitude>
+        <Longitude>8.005833</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="GERSA2W" Runways="28">
+      <Sid_Waypoint ID="1">
+        <Name>28D23</Name>
+        <Type>Normal</Type>
+        <Latitude>47.463400</Latitude>
+        <Longitude>8.474020</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>D4KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.437729</Latitude>
+        <Longitude>8.447225</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>BREGO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.39</Latitude>
+        <Longitude>8.346667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>ARTAG</Name>
+        <Type>Normal</Type>
+        <Latitude>47.1645</Latitude>
+        <Longitude>8.514</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>GERSA</Name>
+        <Type>Normal</Type>
+        <Latitude>47.0393</Latitude>
+        <Longitude>8.533</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="DEGES2W" Runways="28">
+      <Sid_Waypoint ID="1">
+        <Name>28D23</Name>
+        <Type>Normal</Type>
+        <Latitude>47.463400</Latitude>
+        <Longitude>8.474020</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>D4KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.437729</Latitude>
+        <Longitude>8.447225</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>ZH552</Name>
+        <Type>Normal</Type>
+        <Latitude>47.428333</Latitude>
+        <Longitude>8.391667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>D55KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.403235</Latitude>
+        <Longitude>8.436409</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.457139</Latitude>
+        <Longitude>8.545583</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>MONOL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.46167</Latitude>
+        <Longitude>8.671167</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>KOLUL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.467167</Latitude>
+        <Longitude>8.82283</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>DEGES</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4125</Latitude>
+        <Longitude>9.202</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SONGI2W" Runways="28">
+      <Sid_Waypoint ID="1">
+        <Name>28D23</Name>
+        <Type>Normal</Type>
+        <Latitude>47.463400</Latitude>
+        <Longitude>8.474020</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>D4KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.437729</Latitude>
+        <Longitude>8.447225</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>ZH552</Name>
+        <Type>Normal</Type>
+        <Latitude>47.428333</Latitude>
+        <Longitude>8.391667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>D55KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.403235</Latitude>
+        <Longitude>8.436409</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.457139</Latitude>
+        <Longitude>8.545583</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>ZH503</Name>
+        <Type>Normal</Type>
+        <Latitude>47.575254</Latitude>
+        <Longitude>8.709734</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>SONGI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.777778</Latitude>
+        <Longitude>8.731944</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="DEGES1R" Runways="16">
+      <Sid_Waypoint ID="1">
+        <Name>MD34</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4158333</Latitude>
+        <Longitude>8.5775</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>33DME</Name>
+        <Type>Normal</Type>
+        <Latitude>47.45116667</Latitude>
+        <Longitude>8.64616667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>MONOL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.46167</Latitude>
+        <Longitude>8.671167</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>KOLUL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.467167</Latitude>
+        <Longitude>8.82283</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>DEGES</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4125</Latitude>
+        <Longitude>9.202</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SONGI1R" Runways="16">
+      <Sid_Waypoint ID="1">
+        <Name>MD34</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4158333</Latitude>
+        <Longitude>8.5775</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>33DME</Name>
+        <Type>Normal</Type>
+        <Latitude>47.45116667</Latitude>
+        <Longitude>8.64616667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>MONOL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.46167</Latitude>
+        <Longitude>8.671167</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>ZH503</Name>
+        <Type>Normal</Type>
+        <Latitude>47.575254</Latitude>
+        <Longitude>8.709734</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>SONGI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.777778</Latitude>
+        <Longitude>8.731944</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="VEBIT2S" Runways="16">
+      <Sid_Waypoint ID="1">
+        <Name>MD34</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4158333</Latitude>
+        <Longitude>8.5775</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>33DME</Name>
+        <Type>Normal</Type>
+        <Latitude>47.45116667</Latitude>
+        <Longitude>8.64616667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>GPS01</Name>
+        <Type>Normal</Type>
+        <Latitude>47.508</Latitude>
+        <Longitude>8.609667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>MD16</Name>
+        <Type>Normal</Type>
+        <Latitude>47.49416667</Latitude>
+        <Longitude>8.52316667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>BREGO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.39</Latitude>
+        <Longitude>8.346667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>VEBIT</Name>
+        <Type>Normal</Type>
+        <Latitude>47.268611</Latitude>
+        <Longitude>8.005833</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="GERSA1S" Runways="16">
+      <Sid_Waypoint ID="1">
+        <Name>MD34</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4158333</Latitude>
+        <Longitude>8.5775</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>33DME</Name>
+        <Type>Normal</Type>
+        <Latitude>47.45116667</Latitude>
+        <Longitude>8.64616667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>GPS01</Name>
+        <Type>Normal</Type>
+        <Latitude>47.508</Latitude>
+        <Longitude>8.609667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>MD16</Name>
+        <Type>Normal</Type>
+        <Latitude>47.49416667</Latitude>
+        <Longitude>8.52316667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>BREGO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.39</Latitude>
+        <Longitude>8.346667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>ARTAG</Name>
+        <Type>Normal</Type>
+        <Latitude>47.1645</Latitude>
+        <Longitude>8.514</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>GERSA</Name>
+        <Type>Normal</Type>
+        <Latitude>47.0393</Latitude>
+        <Longitude>8.533</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="VEBIT2E" Runways="10">
+      <Sid_Waypoint ID="1">
+        <Name>33DME</Name>
+        <Type>Normal</Type>
+        <Latitude>47.45116667</Latitude>
+        <Longitude>8.64616667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>GPS10</Name>
+        <Type>Normal</Type>
+        <Latitude>47.5107</Latitude>
+        <Longitude>8.6341</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>23KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.463</Latitude>
+        <Longitude>8.489833</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>BREGO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.39</Latitude>
+        <Longitude>8.346667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>VEBIT</Name>
+        <Type>Normal</Type>
+        <Latitude>47.268611</Latitude>
+        <Longitude>8.005833</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="DEGES1E" Runways="10">
+      <Sid_Waypoint ID="1">
+        <Name>22DME</Name>
+        <Type>Normal</Type>
+        <Latitude>47.453167</Latitude>
+        <Longitude>8.6193</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>MONOL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.46167</Latitude>
+        <Longitude>8.671167</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>KOLUL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.467167</Latitude>
+        <Longitude>8.82283</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>DEGES</Name>
+        <Type>Normal</Type>
+        <Latitude>47.4125</Latitude>
+        <Longitude>9.202</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SONGI1E" Runways="10">
+      <Sid_Waypoint ID="1">
+        <Name>22DME</Name>
+        <Type>Normal</Type>
+        <Latitude>47.453167</Latitude>
+        <Longitude>8.6193</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>MONOL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.46167</Latitude>
+        <Longitude>8.671167</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>ZH503</Name>
+        <Type>Normal</Type>
+        <Latitude>47.575254</Latitude>
+        <Longitude>8.709734</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>SONGI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.777778</Latitude>
+        <Longitude>8.731944</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="GERSA1E" Runways="10">
+      <Sid_Waypoint ID="1">
+        <Name>22DME</Name>
+        <Type>Normal</Type>
+        <Latitude>47.453167</Latitude>
+        <Longitude>8.6193</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>MONOL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.46167</Latitude>
+        <Longitude>8.671167</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>KOLUL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.467167</Latitude>
+        <Longitude>8.82283</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>D118I</Name>
+        <Type>Normal</Type>
+        <Latitude>47.3853</Latitude>
+        <Longitude>8.73967</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="5">
+        <Name>ARTAG</Name>
+        <Type>Normal</Type>
+        <Latitude>47.1645</Latitude>
+        <Longitude>8.514</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>GERSA</Name>
+        <Type>Normal</Type>
+        <Latitude>47.0393</Latitude>
+        <Longitude>8.533</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Star Name="BERSU1G" Runways="All">
+      <Star_Waypoint ID="1">
+        <Name>BERSU</Name>
+        <Type>Normal</Type>
+        <Latitude>47.135</Latitude>
+        <Longitude>7.958333</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="2">
+        <Name>TADOB</Name>
+        <Type>Normal</Type>
+        <Latitude>47.18333</Latitude>
+        <Longitude>8.09</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>ERMUS</Name>
+        <Type>Normal</Type>
+        <Latitude>47.2316667</Latitude>
+        <Longitude>8.245</Longitude>
+      </Star_Waypoint>
+    </Star>
+    <Star Name="BLM2G" Runways="All">
+      <Star_Waypoint ID="1">
+        <Name>BLM</Name>
+        <Type>Normal</Type>
+        <Latitude>47.6333</Latitude>
+        <Longitude>7.5</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="2">
+        <Name>ZH677</Name>
+        <Type>Normal</Type>
+        <Latitude>47.57667</Latitude>
+        <Longitude>7.73667</Longitude>
+      </Star_Waypoint>
+    </Star>
+    <Star Name="RILAX1A" Runways="All">
+      <Star_Waypoint ID="1">
+        <Name>RILAX</Name>
+        <Type>Normal</Type>
+        <Latitude>47.94283</Latitude>
+        <Longitude>8.51367</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="2">
+        <Name>LAMAX</Name>
+        <Type>Normal</Type>
+        <Latitude>47.62067</Latitude>
+        <Longitude>8.90383</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>AMIKI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.574</Latitude>
+        <Longitude>9.0375</Longitude>
+      </Star_Waypoint>
+    </Star>
+    <Star Name="NEGRA1A" Runways="All">
+      <Star_Waypoint ID="1">
+        <Name>NEGRA</Name>
+        <Type>Normal</Type>
+        <Latitude>47.722167</Latitude>
+        <Longitude>9.427167</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="2">
+        <Name>MATIV</Name>
+        <Type>Normal</Type>
+        <Latitude>47.593</Latitude>
+        <Longitude>9.1923</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>AMIKI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.574</Latitude>
+        <Longitude>9.0375</Longitude>
+      </Star_Waypoint>
+    </Star>
+    <Star Name="KELIP1G" Runways="14">
+      <Star_Waypoint ID="1">
+        <Name>KELIP</Name>
+        <Type>Normal</Type>
+        <Latitude>46.95667</Latitude>
+        <Longitude>8.761667</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="2">
+        <Name>MOSIT</Name>
+        <Type>Normal</Type>
+        <Latitude>47.07</Latitude>
+        <Longitude>8.74333</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>ZH626</Name>
+        <Type>Normal</Type>
+        <Latitude>47.271667</Latitude>
+        <Longitude>8.711667</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="4">
+        <Name>ZH625</Name>
+        <Type>Normal</Type>
+        <Latitude>47.331667</Latitude>
+        <Longitude>8.701667</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="5">
+        <Name>KLO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.45667</Latitude>
+        <Longitude>8.545</Longitude>
+      </Star_Waypoint>
+    </Star>
+    <Approach Name="GIPOL14">
+        <App_Waypoint ID="1">
+	 <Name>GIPOL</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.5055333</Latitude>
+	 <Longitude>8.048333</Longitude>
+	 <Altitude>7000</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+        <App_Waypoint ID="2">
+	 <Name>D10TRA</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.593781</Latitude>
+	 <Longitude>8.235234</Longitude>
+	 <Altitude>6000</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+      <App_Waypoint ID="3">
+        <Name>D13IKL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.640764</Latitude>
+        <Longitude>8.319154</Longitude>
+        <Altitude>5000</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="4">
+        <Name>OSNEM</Name>
+        <Type>Normal</Type>
+        <Latitude>47.580766</Latitude>
+        <Longitude>8.400987</Longitude>
+        <Altitude>3900</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="5">
+        <Name>D40IKL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.529484</Latitude>
+        <Longitude>8.471285</Longitude>
+        <Altitude>2680</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="6">
+        <Name>RW14</Name>
+        <Type>Runway</Type>
+        <Latitude>0</Latitude>
+        <Longitude>0</Longitude>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+     </App_Waypoint>
+     </Approach>
+     <Approach Name="TRA14">
+        <App_Waypoint ID="1">
+	 <Name>TRA</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.69</Latitude>
+	 <Longitude>8.43667</Longitude>
+	 <Altitude>5000</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+      <App_Waypoint ID="2">
+        <Name>D13IKL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.640764</Latitude>
+        <Longitude>8.319154157</Longitude>
+        <Altitude>5000</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="3">
+        <Name>OSNEM</Name>
+        <Type>Normal</Type>
+        <Latitude>47.580766</Latitude>
+        <Longitude>8.400987</Longitude>
+        <Altitude>3900</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="4">
+        <Name>D40IKL</Name>
+        <Type>Normal</Type>
+        <Latitude>47.529484</Latitude>
+        <Longitude>8.471285</Longitude>
+        <Altitude>2680</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="5">
+        <Name>RW14</Name>
+        <Type>Runway</Type>
+        <Latitude>0</Latitude>
+        <Longitude>0</Longitude>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+     </App_Waypoint>
+     </Approach>
+    <Approach Name="AMIKI28">
+        <App_Waypoint ID="1">
+	 <Name>ZH279</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.430837</Latitude>
+	 <Longitude>8.91867</Longitude>
+	 <Altitude>6000</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+        <App_Waypoint ID="2">
+	 <Name>RAMEM</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.438833</Latitude>
+	 <Longitude>8.816833</Longitude>
+	 <Altitude>4900</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+        <App_Waypoint ID="3">
+	 <Name>FF28</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.451</Latitude>
+	 <Longitude>8.647</Longitude>
+	 <Altitude>2550</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+      <App_Waypoint ID="4">
+        <Name>RW28</Name>
+        <Type>Runway</Type>
+        <Latitude>0</Latitude>
+        <Longitude>0</Longitude>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+    </Approach>
+    <Approach Name="AMIKI34">
+        <App_Waypoint ID="1">
+	 <Name>ZH279</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.430837</Latitude>
+	 <Longitude>8.91867</Longitude>
+	 <Altitude>7000</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+      <App_Waypoint ID="2">
+        <Name>ZH726</Name>
+        <Type>Normal</Type>
+        <Latitude>47.247223</Latitude>
+        <Longitude>8.78750</Longitude>
+        <Altitude>6000</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="3">
+        <Name>UTIXO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.2525</Latitude>
+        <Longitude>8.688888</Longitude>
+        <Altitude>5900</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="4">
+        <Name>MILNI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.29638</Latitude>
+        <Longitude>8.659166</Longitude>
+        <Altitude>4900</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="5">
+        <Name>SD34A</Name>
+        <Type>Normal</Type>
+        <Latitude>47.3836667</Latitude>
+        <Longitude>8.6035</Longitude>
+        <Altitude>2710</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="6">
+        <Name>RW34</Name>
+        <Type>Runway</Type>
+        <Latitude>0</Latitude>
+        <Longitude>0</Longitude>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+     </App_Waypoint>
+     </Approach>
+     <Approach Name="ERMUS34">
+        <App_Waypoint ID="1">
+	 <Name>RONIX</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.228333</Latitude>
+	 <Longitude>8.458333</Longitude>
+	 <Altitude>0</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+      <App_Waypoint ID="2">
+        <Name>ZH310</Name>
+        <Type>Normal</Type>
+        <Latitude>47.173167</Latitude>
+        <Longitude>8.5543</Longitude>
+        <Altitude>7000</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+       <App_Waypoint ID="3">
+        <Name>MANEG</Name>
+        <Type>Normal</Type>
+        <Latitude>47.204167</Latitude>
+        <Longitude>8.722222</Longitude>
+        <Altitude>5900</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+     <App_Waypoint ID="4">
+        <Name>UTIXO</Name>
+        <Type>Normal</Type>
+        <Latitude>47.2525</Latitude>
+        <Longitude>8.688888</Longitude>
+        <Altitude>5900</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="5">
+        <Name>MILNI</Name>
+        <Type>Normal</Type>
+        <Latitude>47.29638</Latitude>
+        <Longitude>8.659166</Longitude>
+        <Altitude>4900</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="6">
+        <Name>SD34A</Name>
+        <Type>Normal</Type>
+        <Latitude>47.3836667</Latitude>
+        <Longitude>8.6035</Longitude>
+        <Altitude>2710</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+      <App_Waypoint ID="7">
+        <Name>RW34</Name>
+        <Type>Runway</Type>
+        <Latitude>0</Latitude>
+        <Longitude>0</Longitude>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+     </App_Waypoint>
+     </Approach>
+     <Approach Name="ERMUS28">
+        <App_Waypoint ID="1">
+	 <Name>RONIX</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.228333</Latitude>
+	 <Longitude>8.458333</Longitude>
+	 <Altitude>0</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+      <App_Waypoint ID="2">
+        <Name>ZH726</Name>
+        <Type>Normal</Type>
+        <Latitude>47.247223</Latitude>
+        <Longitude>8.78750</Longitude>
+        <Altitude>7000</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+      </App_Waypoint>
+        <App_Waypoint ID="3">
+	 <Name>ZH279</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.430837</Latitude>
+	 <Longitude>8.91867</Longitude>
+	 <Altitude>6000</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+        <App_Waypoint ID="4">
+	 <Name>RAMEM</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.438833</Latitude>
+	 <Longitude>8.816833</Longitude>
+	 <Altitude>4900</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+        <App_Waypoint ID="5">
+	 <Name>FF28</Name>
+	 <Type>Normal</Type>
+	 <Latitude>47.451</Latitude>
+	 <Longitude>8.647</Longitude>
+	 <Altitude>2550</Altitude>
+	 <AltitudeCons>0</AltitudeCons>
+	 <AltitudeRestriction>at</AltitudeRestriction>
+        </App_Waypoint>
+      <App_Waypoint ID="6">
+        <Name>RW28</Name>
+        <Type>Runway</Type>
+        <Latitude>0</Latitude>
+        <Longitude>0</Longitude>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+     </App_Waypoint>
+    -->     
+    </Approach>
+  </Airport>
