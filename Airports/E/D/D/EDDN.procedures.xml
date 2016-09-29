@@ -31,841 +31,538 @@
         <Latitude>49.128333</Latitude>
         <Longitude>10.765</Longitude>
       </Sid_Waypoint>
-    </Sid>
-<!--    <Sid Name="VEBIT2N" Runways="32">
-      <Sid_Waypoint ID="1">
-        <Name>34D2</Name>
-        <Type>Normal</Type>
-        <Latitude>47.488997</Latitude>
-        <Longitude>8.526674</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="1">
-        <Name>34D6</Name>
-        <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>TRA12</Name>
-        <Type>Normal</Type>
-        <Latitude>47.493964</Latitude>
-        <Longitude>8.365627</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>BREGO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.39</Latitude>
-        <Longitude>8.346667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>VEBIT</Name>
-        <Type>Normal</Type>
-        <Latitude>47.268611</Latitude>
-        <Longitude>8.005833</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-   <Sid Name="GERSA1H" Runways="34">
-      <Sid_Waypoint ID="1">
-        <Name>34D6</Name>
-        <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>TRA12</Name>
-        <Type>Normal</Type>
-        <Latitude>47.493964</Latitude>
-        <Longitude>8.365627</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>BREGO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.39</Latitude>
-        <Longitude>8.346667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>ARTAG</Name>
-        <Type>Normal</Type>
-        <Latitude>47.1645</Latitude>
-        <Longitude>8.514</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>GERSA</Name>
-        <Type>Normal</Type>
-        <Latitude>47.0393</Latitude>
-        <Longitude>8.533</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-   <Sid Name="GERSA1N" Runways="32">
-      <Sid_Waypoint ID="1">
-        <Name>34D2</Name>
-        <Type>Normal</Type>
-        <Latitude>47.488997</Latitude>
-        <Longitude>8.526674</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>34D6</Name>
-        <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>TRA12</Name>
-        <Type>Normal</Type>
-        <Latitude>47.493964</Latitude>
-        <Longitude>8.365627</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>BREGO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.39</Latitude>
-        <Longitude>8.346667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>ARTAG</Name>
-        <Type>Normal</Type>
-        <Latitude>47.1645</Latitude>
-        <Longitude>8.514</Longitude>
-      </Sid_Waypoint>
       <Sid_Waypoint ID="6">
-        <Name>GERSA</Name>
+        <Name>AKANU</Name>
         <Type>Normal</Type>
-        <Latitude>47.0393</Latitude>
-        <Longitude>8.533</Longitude>
+        <Latitude>49.05</Latitude>
+        <Longitude>10.658333</Longitude>
       </Sid_Waypoint>
     </Sid>
-   <Sid Name="DEGES2F" Runways="34">
+    <Sid Name="AKANU6M" Runways="10">
       <Sid_Waypoint ID="1">
-        <Name>34D6</Name>
+        <Name>RTB</Name>
         <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
+        <Latitude>49.481667</Latitude>
+        <Longitude>11.253333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="2">
-        <Name>TRA12</Name>
+        <Name>DN105</Name>
         <Type>Normal</Type>
-        <Latitude>47.493964</Latitude>
-        <Longitude>8.365627</Longitude>
+        <Latitude>49.31</Latitude>
+        <Longitude>11.233333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="3">
-        <Name>D65KLO</Name>
+        <Name>DN106</Name>
         <Type>Normal</Type>
-        <Latitude>47.457028</Latitude>
-        <Longitude>8.385938</Longitude>
+        <Latitude>49.241667</Latitude>
+        <Longitude>10.816667</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>KLO</Name>
+        <Name>DN104</Name>
         <Type>Normal</Type>
-        <Latitude>47.457139</Latitude>
-        <Longitude>8.545583</Longitude>
+        <Latitude>49.131667</Latitude>
+        <Longitude>10.725</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="5">
-        <Name>MONOL</Name>
+        <Name>AKANU</Name>
         <Type>Normal</Type>
-        <Latitude>47.46167</Latitude>
-        <Longitude>8.671167</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>KOLUL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.467167</Latitude>
-        <Longitude>8.82283</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="7">
-        <Name>DEGES</Name>
-        <Type>Normal</Type>
-        <Latitude>47.4125</Latitude>
-        <Longitude>9.202</Longitude>
+        <Latitude>49.05</Latitude>
+        <Longitude>10.658333</Longitude>
       </Sid_Waypoint>
     </Sid>
-   <Sid Name="DEGES1H" Runways="34">
+   <Sid Name="ERETO7K" Runways="28">
       <Sid_Waypoint ID="1">
-        <Name>34D6</Name>
+        <Name>DN282</Name>
         <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
+        <Latitude>49.513333</Latitude>
+        <Longitude>10.925</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="2">
-        <Name>ZH503</Name>
+        <Name>DN285</Name>
         <Type>Normal</Type>
-        <Latitude>47.575254</Latitude>
-        <Longitude>8.709734</Longitude>
+        <Latitude>49.696667</Latitude>
+        <Longitude>10.93</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="3">
-        <Name>KOLUL</Name>
+        <Name>BABAV</Name>
         <Type>Normal</Type>
-        <Latitude>47.467167</Latitude>
-        <Longitude>8.82283</Longitude>
+        <Latitude>49.84</Latitude>
+        <Longitude>11.111667</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>DEGES</Name>
+        <Name>ERETO</Name>
         <Type>Normal</Type>
-        <Latitude>47.4125</Latitude>
-        <Longitude>9.202</Longitude>
+        <Latitude>49.931667</Latitude>
+        <Longitude>11.408333</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="ERETO6M" Runways="10">
+      <Sid_Waypoint ID="1">
+        <Name>DN102</Name>
+        <Type>Normal</Type>
+        <Latitude>49.478333</Latitude>
+        <Longitude>11.295</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DN103</Name>
+        <Type>Normal</Type>
+        <Latitude>49.515</Latitude>
+        <Longitude>11.346667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>AGIKO</Name>
+        <Type>Normal</Type>
+        <Latitude>49.593333</Latitude>
+        <Longitude>11.32</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>ERETO</Name>
+        <Type>Normal</Type>
+        <Latitude>49.931667</Latitude>
+        <Longitude>11.408333</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="ERL8K" Runways="28">
+      <Sid_Waypoint ID="1">
+        <Name>NUB</Name>
+        <Type>Normal</Type>
+        <Latitude>49.503333</Latitude>
+        <Longitude>11.035</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DN293</Name>
+        <Type>Normal</Type>
+        <Latitude>49.526667</Latitude>
+        <Longitude>11.018333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>ERL</Name>
+        <Type>Normal</Type>
+        <Latitude>49.655</Latitude>
+        <Longitude>11.15</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+   <Sid Name="ERL9M" Runways="10">
+      <Sid_Waypoint ID="1">
+        <Name>DN108</Name>
+        <Type>Normal</Type>
+        <Latitude>49.495</Latitude>
+        <Longitude>11.11</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DN112</Name>
+        <Type>Normal</Type>
+        <Latitude>49.51</Latitude>
+        <Longitude>11.135</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>ERL</Name>
+        <Type>Normal</Type>
+        <Latitude>49.655</Latitude>
+        <Longitude>11.15</Longitude>
       </Sid_Waypoint>
    </Sid>
-   <Sid Name="DEGES2L" Runways="32">
+   <Sid Name="DKB4K" Runways="28">
       <Sid_Waypoint ID="1">
-        <Name>34D2</Name>
+        <Name>DN290</Name>
         <Type>Normal</Type>
-        <Latitude>47.488997</Latitude>
-        <Longitude>8.526674</Longitude>
+        <Latitude>49.523333</Latitude>
+        <Longitude>10.823333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="2">
-        <Name>34D6</Name>
+        <Name>DN291</Name>
         <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
+        <Latitude>49.49</Latitude>
+        <Longitude>10.763333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="3">
-        <Name>TRA12</Name>
+        <Name>BOLSI</Name>
         <Type>Normal</Type>
-        <Latitude>47.493964</Latitude>
-        <Longitude>8.365627</Longitude>
+        <Latitude>49.231667</Latitude>
+        <Longitude>10.758333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>D65KLO</Name>
+        <Name>DKB</Name>
         <Type>Normal</Type>
-        <Latitude>47.457028</Latitude>
-        <Longitude>8.385938</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.457139</Latitude>
-        <Longitude>8.545583</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>MONOL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.46167</Latitude>
-        <Longitude>8.671167</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="7">
-        <Name>KOLUL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.467167</Latitude>
-        <Longitude>8.82283</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="8">
-        <Name>DEGES</Name>
-        <Type>Normal</Type>
-        <Latitude>47.4125</Latitude>
-        <Longitude>9.202</Longitude>
+        <Latitude>49.143333</Latitude>
+        <Longitude>10.238333</Longitude>
       </Sid_Waypoint>
     </Sid>
-   <Sid Name="DEGES1N" Runways="32">
+   <Sid Name="DKB4M" Runways="10">
       <Sid_Waypoint ID="1">
-        <Name>34D2</Name>
+        <Name>RTB</Name>
         <Type>Normal</Type>
-        <Latitude>47.488997</Latitude>
-        <Longitude>8.526674</Longitude>
+        <Latitude>49.481667</Latitude>
+        <Longitude>11.253333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="2">
-        <Name>34D6</Name>
+        <Name>DN105</Name>
         <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
+        <Latitude>49.31</Latitude>
+        <Longitude>11.233333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="3">
-        <Name>ZH503</Name>
+        <Name>BOLSI</Name>
         <Type>Normal</Type>
-        <Latitude>47.575254</Latitude>
-        <Longitude>8.709734</Longitude>
+        <Latitude>49.231667</Latitude>
+        <Longitude>10.758333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>KOLUL</Name>
+        <Name>DKB</Name>
         <Type>Normal</Type>
-        <Latitude>47.467167</Latitude>
-        <Longitude>8.82283</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>DEGES</Name>
-        <Type>Normal</Type>
-        <Latitude>47.4125</Latitude>
-        <Longitude>9.202</Longitude>
+        <Latitude>49.143333</Latitude>
+        <Longitude>10.238333</Longitude>
       </Sid_Waypoint>
    </Sid>
-   <Sid Name="SONGI2F" Runways="34">
+   <Sid Name="IBAGA2K" Runways="28">
       <Sid_Waypoint ID="1">
-        <Name>34D6</Name>
+        <Name>DN287</Name>
         <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
+        <Latitude>49.545</Latitude>
+        <Longitude>10.593333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="2">
-        <Name>TRA12</Name>
+        <Name>IBAGA</Name>
         <Type>Normal</Type>
-        <Latitude>47.493964</Latitude>
-        <Longitude>8.365627</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>D65KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.457028</Latitude>
-        <Longitude>8.385938</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.457139</Latitude>
-        <Longitude>8.545583</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>ZH503</Name>
-        <Type>Normal</Type>
-        <Latitude>47.575254</Latitude>
-        <Longitude>8.709734</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>SONGI</Name>
-        <Type>Normal</Type>
-        <Latitude>47.777778</Latitude>
-        <Longitude>8.731944</Longitude>
+        <Latitude>49.743333</Latitude>
+        <Longitude>10.56</Longitude>
       </Sid_Waypoint>
    </Sid>
-   <Sid Name="SONGI2L" Runways="32">
+   <Sid Name="IBAGA2M" Runways="10">
       <Sid_Waypoint ID="1">
-        <Name>34D2</Name>
+        <Name>RTB</Name>
         <Type>Normal</Type>
-        <Latitude>47.488997</Latitude>
-        <Longitude>8.526674</Longitude>
+        <Latitude>49.481667</Latitude>
+        <Longitude>11.253333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="2">
-        <Name>34D6</Name>
+        <Name>DN105</Name>
         <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
+        <Latitude>49.31</Latitude>
+        <Longitude>11.233333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="3">
-        <Name>TRA12</Name>
+        <Name>DN109</Name>
         <Type>Normal</Type>
-        <Latitude>47.493964</Latitude>
-        <Longitude>8.365627</Longitude>
+        <Latitude>49.255</Latitude>
+        <Longitude>10.893333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>D65KLO</Name>
+        <Name>EMKIR</Name>
         <Type>Normal</Type>
-        <Latitude>47.457028</Latitude>
-        <Longitude>8.385938</Longitude>
+        <Latitude>49.45</Latitude>
+        <Longitude>10.578333</Longitude>
       </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>KLO</Name>
+      <Sid_Waypoint ID="2">
+        <Name>IBAGA</Name>
         <Type>Normal</Type>
-        <Latitude>47.457139</Latitude>
-        <Longitude>8.545583</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>ZH503</Name>
-        <Type>Normal</Type>
-        <Latitude>47.575254</Latitude>
-        <Longitude>8.709734</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="7">
-        <Name>SONGI</Name>
-        <Type>Normal</Type>
-        <Latitude>47.777778</Latitude>
-        <Longitude>8.731944</Longitude>
+        <Latitude>49.743333</Latitude>
+        <Longitude>10.56</Longitude>
       </Sid_Waypoint>
    </Sid>
-   <Sid Name="SONGI1H" Runways="34">
+   <Sid Name="RODIS3K" Runways="28">
       <Sid_Waypoint ID="1">
-        <Name>34D2</Name>
+        <Name>DN282</Name>
         <Type>Normal</Type>
-        <Latitude>47.488997</Latitude>
-        <Longitude>8.526674</Longitude>
+        <Latitude>49.513333</Latitude>
+        <Longitude>10.925</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="2">
-        <Name>34D6</Name>
+        <Name>DN283</Name>
         <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
+        <Latitude>49.618333</Latitude>
+        <Longitude>10.926667</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="3">
-        <Name>ZH503</Name>
+        <Name>ERL</Name>
         <Type>Normal</Type>
-        <Latitude>47.575254</Latitude>
-        <Longitude>8.709734</Longitude>
+        <Latitude>49.655</Latitude>
+        <Longitude>11.15</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>SONGI</Name>
+        <Name>MOOCE</Name>
         <Type>Normal</Type>
-        <Latitude>47.777778</Latitude>
-        <Longitude>8.731944</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-   <Sid Name="SONGI1N" Runways="32">
-      <Sid_Waypoint ID="1">
-        <Name>34D6</Name>
-        <Type>Normal</Type>
-        <Latitude>47.536041</Latitude>
-        <Longitude>8.494333</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>ZH503</Name>
-        <Type>Normal</Type>
-        <Latitude>47.575254</Latitude>
-        <Longitude>8.709734</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>SONGI</Name>
-        <Type>Normal</Type>
-        <Latitude>47.777778</Latitude>
-        <Longitude>8.731944</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-    <Sid Name="VEBIT3W" Runways="28">
-      <Sid_Waypoint ID="1">
-        <Name>28D23</Name>
-        <Type>Normal</Type>
-        <Latitude>47.463400</Latitude>
-        <Longitude>8.474020</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>D4KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.437729</Latitude>
-        <Longitude>8.447225</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>BREGO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.39</Latitude>
-        <Longitude>8.346667</Longitude>
+        <Latitude>49.566667</Latitude>
+        <Longitude>11.546667</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>VEBIT</Name>
+        <Name>RODIS</Name>
         <Type>Normal</Type>
-        <Latitude>47.268611</Latitude>
-        <Longitude>8.005833</Longitude>
+        <Latitude>49.475</Latitude>
+        <Longitude>11.95</Longitude>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="GERSA2W" Runways="28">
+   <Sid Name="RODIS4M" Runways="10">
       <Sid_Waypoint ID="1">
-        <Name>28D23</Name>
+        <Name>RTB</Name>
         <Type>Normal</Type>
-        <Latitude>47.463400</Latitude>
-        <Longitude>8.474020</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>D4KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.437729</Latitude>
-        <Longitude>8.447225</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>BREGO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.39</Latitude>
-        <Longitude>8.346667</Longitude>
+        <Latitude>49.481667</Latitude>
+        <Longitude>11.253333</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>ARTAG</Name>
+        <Name>RODIS</Name>
         <Type>Normal</Type>
-        <Latitude>47.1645</Latitude>
-        <Longitude>8.514</Longitude>
+        <Latitude>49.475</Latitude>
+        <Longitude>11.95</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SUKAD2K" Runways="28">
+      <Sid_Waypoint ID="1">
+        <Name>SUKAD</Name>
+        <Type>Normal</Type>
+        <Latitude>49.551667</Latitude>
+        <Longitude>10.531667</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SUKAD2M" Runways="10">
+      <Sid_Waypoint ID="1">
+        <Name>RTB</Name>
+        <Type>Normal</Type>
+        <Latitude>49.481667</Latitude>
+        <Longitude>11.253333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DN105</Name>
+        <Type>Normal</Type>
+        <Latitude>49.31</Latitude>
+        <Longitude>11.233333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>DN109</Name>
+        <Type>Normal</Type>
+        <Latitude>49.255</Latitude>
+        <Longitude>10.893333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>EMKIR</Name>
+        <Type>Normal</Type>
+        <Latitude>49.45</Latitude>
+        <Longitude>10.578333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="1">
+        <Name>SUKAD</Name>
+        <Type>Normal</Type>
+        <Latitude>49.551667</Latitude>
+        <Longitude>10.531667</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SULUS3K" Runways="28">
+      <Sid_Waypoint ID="1">
+        <Name>DN282</Name>
+        <Type>Normal</Type>
+        <Latitude>49.513333</Latitude>
+        <Longitude>10.925</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DN286</Name>
+        <Type>Normal</Type>
+        <Latitude>49.701667</Latitude>
+        <Longitude>10.93</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>SULUS</Name>
+        <Type>Normal</Type>
+        <Latitude>50.075</Latitude>
+        <Longitude>10.728333</Longitude>
+      </Sid_Waypoint>
+    </Sid>
+    <Sid Name="SULUS3M" Runways="10">
+      <Sid_Waypoint ID="1">
+        <Name>RTB</Name>
+        <Type>Normal</Type>
+        <Latitude>49.481667</Latitude>
+        <Longitude>11.253333</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="2">
+        <Name>DN101</Name>
+        <Type>Normal</Type>
+        <Latitude>49.523333</Latitude>
+        <Longitude>11.211667</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="3">
+        <Name>ERL</Name>
+        <Type>Normal</Type>
+        <Latitude>49.655</Latitude>
+        <Longitude>11.15</Longitude>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
+        <Name>BABAV</Name>
+        <Type>Normal</Type>
+        <Latitude>49.84</Latitude>
+        <Longitude>11.111667</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="5">
-        <Name>GERSA</Name>
+        <Name>BAMAS</Name>
         <Type>Normal</Type>
-        <Latitude>47.0393</Latitude>
-        <Longitude>8.533</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-    <Sid Name="DEGES2W" Runways="28">
-      <Sid_Waypoint ID="1">
-        <Name>28D23</Name>
-        <Type>Normal</Type>
-        <Latitude>47.463400</Latitude>
-        <Longitude>8.474020</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>D4KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.437729</Latitude>
-        <Longitude>8.447225</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>ZH552</Name>
-        <Type>Normal</Type>
-        <Latitude>47.428333</Latitude>
-        <Longitude>8.391667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>D55KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.403235</Latitude>
-        <Longitude>8.436409</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.457139</Latitude>
-        <Longitude>8.545583</Longitude>
+        <Latitude>49.88</Latitude>
+        <Longitude>11.045</Longitude>
       </Sid_Waypoint>
       <Sid_Waypoint ID="6">
-        <Name>MONOL</Name>
+        <Name>SULUS</Name>
         <Type>Normal</Type>
-        <Latitude>47.46167</Latitude>
-        <Longitude>8.671167</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="7">
-        <Name>KOLUL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.467167</Latitude>
-        <Longitude>8.82283</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="8">
-        <Name>DEGES</Name>
-        <Type>Normal</Type>
-        <Latitude>47.4125</Latitude>
-        <Longitude>9.202</Longitude>
+        <Latitude>50.075</Latitude>
+        <Longitude>10.728333</Longitude>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SONGI2W" Runways="28">
-      <Sid_Waypoint ID="1">
-        <Name>28D23</Name>
-        <Type>Normal</Type>
-        <Latitude>47.463400</Latitude>
-        <Longitude>8.474020</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>D4KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.437729</Latitude>
-        <Longitude>8.447225</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>ZH552</Name>
-        <Type>Normal</Type>
-        <Latitude>47.428333</Latitude>
-        <Longitude>8.391667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>D55KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.403235</Latitude>
-        <Longitude>8.436409</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.457139</Latitude>
-        <Longitude>8.545583</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>ZH503</Name>
-        <Type>Normal</Type>
-        <Latitude>47.575254</Latitude>
-        <Longitude>8.709734</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="7">
-        <Name>SONGI</Name>
-        <Type>Normal</Type>
-        <Latitude>47.777778</Latitude>
-        <Longitude>8.731944</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-    <Sid Name="DEGES1R" Runways="16">
-      <Sid_Waypoint ID="1">
-        <Name>MD34</Name>
-        <Type>Normal</Type>
-        <Latitude>47.4158333</Latitude>
-        <Longitude>8.5775</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>33DME</Name>
-        <Type>Normal</Type>
-        <Latitude>47.45116667</Latitude>
-        <Longitude>8.64616667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>MONOL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.46167</Latitude>
-        <Longitude>8.671167</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>KOLUL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.467167</Latitude>
-        <Longitude>8.82283</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>DEGES</Name>
-        <Type>Normal</Type>
-        <Latitude>47.4125</Latitude>
-        <Longitude>9.202</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-    <Sid Name="SONGI1R" Runways="16">
-      <Sid_Waypoint ID="1">
-        <Name>MD34</Name>
-        <Type>Normal</Type>
-        <Latitude>47.4158333</Latitude>
-        <Longitude>8.5775</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>33DME</Name>
-        <Type>Normal</Type>
-        <Latitude>47.45116667</Latitude>
-        <Longitude>8.64616667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>MONOL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.46167</Latitude>
-        <Longitude>8.671167</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>ZH503</Name>
-        <Type>Normal</Type>
-        <Latitude>47.575254</Latitude>
-        <Longitude>8.709734</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>SONGI</Name>
-        <Type>Normal</Type>
-        <Latitude>47.777778</Latitude>
-        <Longitude>8.731944</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-   <Sid Name="VEBIT2S" Runways="16">
-      <Sid_Waypoint ID="1">
-        <Name>MD34</Name>
-        <Type>Normal</Type>
-        <Latitude>47.4158333</Latitude>
-        <Longitude>8.5775</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>33DME</Name>
-        <Type>Normal</Type>
-        <Latitude>47.45116667</Latitude>
-        <Longitude>8.64616667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>GPS01</Name>
-        <Type>Normal</Type>
-        <Latitude>47.508</Latitude>
-        <Longitude>8.609667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>MD16</Name>
-        <Type>Normal</Type>
-        <Latitude>47.49416667</Latitude>
-        <Longitude>8.52316667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>BREGO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.39</Latitude>
-        <Longitude>8.346667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>VEBIT</Name>
-        <Type>Normal</Type>
-        <Latitude>47.268611</Latitude>
-        <Longitude>8.005833</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-   <Sid Name="GERSA1S" Runways="16">
-      <Sid_Waypoint ID="1">
-        <Name>MD34</Name>
-        <Type>Normal</Type>
-        <Latitude>47.4158333</Latitude>
-        <Longitude>8.5775</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>33DME</Name>
-        <Type>Normal</Type>
-        <Latitude>47.45116667</Latitude>
-        <Longitude>8.64616667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>GPS01</Name>
-        <Type>Normal</Type>
-        <Latitude>47.508</Latitude>
-        <Longitude>8.609667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>MD16</Name>
-        <Type>Normal</Type>
-        <Latitude>47.49416667</Latitude>
-        <Longitude>8.52316667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>BREGO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.39</Latitude>
-        <Longitude>8.346667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>ARTAG</Name>
-        <Type>Normal</Type>
-        <Latitude>47.1645</Latitude>
-        <Longitude>8.514</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="7">
-        <Name>GERSA</Name>
-        <Type>Normal</Type>
-        <Latitude>47.0393</Latitude>
-        <Longitude>8.533</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-    <Sid Name="VEBIT2E" Runways="10">
-      <Sid_Waypoint ID="1">
-        <Name>33DME</Name>
-        <Type>Normal</Type>
-        <Latitude>47.45116667</Latitude>
-        <Longitude>8.64616667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>GPS10</Name>
-        <Type>Normal</Type>
-        <Latitude>47.5107</Latitude>
-        <Longitude>8.6341</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>23KLO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.463</Latitude>
-        <Longitude>8.489833</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>BREGO</Name>
-        <Type>Normal</Type>
-        <Latitude>47.39</Latitude>
-        <Longitude>8.346667</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>VEBIT</Name>
-        <Type>Normal</Type>
-        <Latitude>47.268611</Latitude>
-        <Longitude>8.005833</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-    <Sid Name="DEGES1E" Runways="10">
-      <Sid_Waypoint ID="1">
-        <Name>22DME</Name>
-        <Type>Normal</Type>
-        <Latitude>47.453167</Latitude>
-        <Longitude>8.6193</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>MONOL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.46167</Latitude>
-        <Longitude>8.671167</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>KOLUL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.467167</Latitude>
-        <Longitude>8.82283</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>DEGES</Name>
-        <Type>Normal</Type>
-        <Latitude>47.4125</Latitude>
-        <Longitude>9.202</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-    <Sid Name="SONGI1E" Runways="10">
-      <Sid_Waypoint ID="1">
-        <Name>22DME</Name>
-        <Type>Normal</Type>
-        <Latitude>47.453167</Latitude>
-        <Longitude>8.6193</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>MONOL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.46167</Latitude>
-        <Longitude>8.671167</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>ZH503</Name>
-        <Type>Normal</Type>
-        <Latitude>47.575254</Latitude>
-        <Longitude>8.709734</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>SONGI</Name>
-        <Type>Normal</Type>
-        <Latitude>47.777778</Latitude>
-        <Longitude>8.731944</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-    <Sid Name="GERSA1E" Runways="10">
-      <Sid_Waypoint ID="1">
-        <Name>22DME</Name>
-        <Type>Normal</Type>
-        <Latitude>47.453167</Latitude>
-        <Longitude>8.6193</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>MONOL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.46167</Latitude>
-        <Longitude>8.671167</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>KOLUL</Name>
-        <Type>Normal</Type>
-        <Latitude>47.467167</Latitude>
-        <Longitude>8.82283</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>D118I</Name>
-        <Type>Normal</Type>
-        <Latitude>47.3853</Latitude>
-        <Longitude>8.73967</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>ARTAG</Name>
-        <Type>Normal</Type>
-        <Latitude>47.1645</Latitude>
-        <Longitude>8.514</Longitude>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>GERSA</Name>
-        <Type>Normal</Type>
-        <Latitude>47.0393</Latitude>
-        <Longitude>8.533</Longitude>
-      </Sid_Waypoint>
-    </Sid>
-    <Star Name="BERSU1G" Runways="All">
+ </Sid>
+    <Star Name="DODAS10" Runways="10">
       <Star_Waypoint ID="1">
-        <Name>BERSU</Name>
+        <Name>DODAS</Name>
         <Type>Normal</Type>
-        <Latitude>47.135</Latitude>
-        <Longitude>7.958333</Longitude>
+        <Latitude>49.81</Latitude>
+        <Longitude>10.705</Longitude>
       </Star_Waypoint>
       <Star_Waypoint ID="2">
-        <Name>TADOB</Name>
+        <Name>DN411</Name>
         <Type>Normal</Type>
-        <Latitude>47.18333</Latitude>
-        <Longitude>8.09</Longitude>
+        <Latitude>49.731667</Latitude>
+        <Longitude>10.756667</Longitude>
       </Star_Waypoint>
       <Star_Waypoint ID="3">
-        <Name>ERMUS</Name>
+        <Name>DN412</Name>
         <Type>Normal</Type>
-        <Latitude>47.2316667</Latitude>
-        <Longitude>8.245</Longitude>
+        <Latitude>49.706667</Latitude>
+        <Longitude>11.023333</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN413</Name>
+        <Type>Normal</Type>
+        <Latitude>49.718333</Latitude>
+        <Longitude>11.208333</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN425</Name>
+        <Type>Normal</Type>
+        <Latitude>49.59</Latitude>
+        <Longitude>11.185</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN424</Name>
+        <Type>Normal</Type>
+        <Latitude>49.606667</Latitude>
+        <Longitude>11</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN423</Name>
+        <Type>Normal</Type>
+        <Latitude>49.623333</Latitude>
+        <Longitude>10.835</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN422</Name>
+        <Type>Normal</Type>
+        <Latitude>49.633333</Latitude>
+        <Longitude>10.733333</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN421</Name>
+        <Type>Normal</Type>
+        <Latitude>49.643333</Latitude>
+        <Longitude>10.633333</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN420</Name>
+        <Type>Normal</Type>
+        <Latitude>49.651667</Latitude>
+        <Longitude>10.531667</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN430</Name>
+        <Type>Normal</Type>
+        <Latitude>49.553333</Latitude>
+        <Longitude>10.51</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN431</Name>
+        <Type>Normal</Type>
+        <Latitude>49.543333</Latitude>
+        <Longitude>10.61</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN432</Name>
+        <Type>Normal</Type>
+        <Latitude>49.533333</Latitude>
+        <Longitude>10.711667</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>VENUB</Name>
+        <Type>Normal</Type>
+        <Latitude>49.525</Latitude>
+        <Longitude>10.813333</Longitude>
       </Star_Waypoint>
     </Star>
-    <Star Name="BLM2G" Runways="All">
+    <Star Name="PIVIR10" Runways="10">
       <Star_Waypoint ID="1">
-        <Name>BLM</Name>
+        <Name>PIVIR</Name>
         <Type>Normal</Type>
-        <Latitude>47.6333</Latitude>
-        <Longitude>7.5</Longitude>
+        <Latitude>49.666667</Latitude>
+        <Longitude>11.416667</Longitude>
       </Star_Waypoint>
       <Star_Waypoint ID="2">
-        <Name>ZH677</Name>
+        <Name>DN426</Name>
         <Type>Normal</Type>
-        <Latitude>47.57667</Latitude>
-        <Longitude>7.73667</Longitude>
+        <Latitude>49.573333</Latitude>
+        <Longitude>11.35</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN425</Name>
+        <Type>Normal</Type>
+        <Latitude>49.59</Latitude>
+        <Longitude>11.185</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN424</Name>
+        <Type>Normal</Type>
+        <Latitude>49.606667</Latitude>
+        <Longitude>11</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN423</Name>
+        <Type>Normal</Type>
+        <Latitude>49.623333</Latitude>
+        <Longitude>10.835</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN422</Name>
+        <Type>Normal</Type>
+        <Latitude>49.633333</Latitude>
+        <Longitude>10.733333</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN421</Name>
+        <Type>Normal</Type>
+        <Latitude>49.643333</Latitude>
+        <Longitude>10.633333</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN420</Name>
+        <Type>Normal</Type>
+        <Latitude>49.651667</Latitude>
+        <Longitude>10.531667</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN430</Name>
+        <Type>Normal</Type>
+        <Latitude>49.553333</Latitude>
+        <Longitude>10.51</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN431</Name>
+        <Type>Normal</Type>
+        <Latitude>49.543333</Latitude>
+        <Longitude>10.61</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>DN432</Name>
+        <Type>Normal</Type>
+        <Latitude>49.533333</Latitude>
+        <Longitude>10.711667</Longitude>
+      </Star_Waypoint>
+      <Star_Waypoint ID="3">
+        <Name>VENUB</Name>
+        <Type>Normal</Type>
+        <Latitude>49.525</Latitude>
+        <Longitude>10.813333</Longitude>
       </Star_Waypoint>
     </Star>
     <Star Name="RILAX1A" Runways="All">
@@ -888,7 +585,7 @@
         <Longitude>9.0375</Longitude>
       </Star_Waypoint>
     </Star>
-    <Star Name="NEGRA1A" Runways="All">
+<!--    <Star Name="NEGRA1A" Runways="All">
       <Star_Waypoint ID="1">
         <Name>NEGRA</Name>
         <Type>Normal</Type>
